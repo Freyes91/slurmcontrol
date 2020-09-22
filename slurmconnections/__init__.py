@@ -1,0 +1,3 @@
+from slurmcontrol.slurmconnections.jobs import Jobs
+from slurmcontrol.slurmconnections.nodes import Nodes
+from slurmcontrol.slurmconnections.partitions import Partitions
