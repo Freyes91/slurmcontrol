@@ -1,0 +1,8 @@
+Library that simplifies queries with slurm, administration jobs, nodesm partitions and configurations:
+
+System requeriments:
+    > connection slurm
+
+Python packages:
+    > cython 27.03
+    > slurm-master
